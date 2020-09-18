@@ -1,4 +1,5 @@
 base 1
+base 2
 línea común 1
 línea común 2
 línea común 3
